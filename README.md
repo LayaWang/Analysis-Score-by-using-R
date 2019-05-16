@@ -5,7 +5,9 @@
 
 
 研習目的
+
 阿簡生物筆記，2015年12月12日，用R作成績分析(2)-產出SP Table與視覺化呈現試題、學生與班級分析圖表
+
 http://a-chien.blogspot.com/2015/12/r2-sp-table.html
 
 for WINDOWS 10
