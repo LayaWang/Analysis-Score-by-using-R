@@ -4,7 +4,7 @@ author: "bolero"
 date: "2021/4/9"
 output:
   html_document: default
-  pdf_document:  default
+  pdf_document: default  
   word_document: default
 ---
 
